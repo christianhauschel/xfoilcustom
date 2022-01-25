@@ -1,4 +1,9 @@
 
+```bash
+pip install git+https://github.com/christianhauschel/xfoilcustom
+```
+
+
 General
 -------
 This is a stripped down version of XFOIL, presented in the form of a Python module. What's unique about this package
